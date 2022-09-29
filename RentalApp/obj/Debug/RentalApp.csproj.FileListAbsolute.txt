@@ -1,0 +1,12 @@
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.csproj.AssemblyReference.cache
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.Form1.resources
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.Properties.resources
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.Properties.Resources.resources
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.PropertyType.resources
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.Province.resources
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.ucPropertyType.resources
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.UserForm.resources
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.csproj.GenerateResource.cache
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.csproj.CoreCompileInputs.cache
+C:\Users\xolel\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.UserControl1.resources
